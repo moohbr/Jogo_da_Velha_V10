@@ -1,2 +1,2 @@
 # jogo-da-velha-python
-Foi criado por uma aposta no escritorio para ver se eu conseguia em, 4 horas aprender uma nova linguagem e fazer um jogo da velha funcional
+It was created by bet in the office to see old, if I learn a new, 4 hours, game and make a game of the function
